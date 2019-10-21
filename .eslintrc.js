@@ -29,6 +29,8 @@ module.exports = {
 
     'import/prefer-default-export': 'off',
 
+    'jsx-a11y/anchor-is-valid': 'off',
+
     'react/jsx-filename-extension': 'off',
     'react/state-in-constructor': 'off',
     'react/static-property-placement': 'off',
